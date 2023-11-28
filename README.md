@@ -1,4 +1,4 @@
-Hi, I’m @Castelvill. I'm third year Computer Science student at Poznań University of Technology.
+Hi, I’m @Castelvill. I'm a Computer Science student at Poznań University of Technology.
 
 I have extensive experience with C++ language. I can also write code in: C, Python, SQL, HTML and Java.
 
